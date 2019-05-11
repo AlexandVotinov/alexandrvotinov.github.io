@@ -83,13 +83,13 @@ main{
     grid-template-columns: 1fr 1fr;
     grid-template-rows: auto;
     background-color: #fff;
-    min-height: 100vh;
 }
 
 .main-info h1{
     font-size: 18px;
     display: inline;
-    font-weight: 100;
+    font-weight: 400;
+    color: #222;
 }
 
 .main-slider{
